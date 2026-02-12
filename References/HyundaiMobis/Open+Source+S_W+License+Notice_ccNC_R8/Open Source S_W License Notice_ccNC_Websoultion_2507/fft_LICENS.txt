@@ -1,0 +1,9 @@
+fft (Fast Fourier/Cosine/Sine Transform) Package  - ver 0 
+Custom License
+Copyright Takuya OOURA, 1996-2001
+https://chromium.googlesource.com/chromium/src/+/refs/tags/92.0.4515.131/third_party/fft2d/
+
+----------------------------------------------------
+Copyright(C) 1997,2001 Takuya OOURA (email: ooura@kurims.kyoto-u.ac.jp).
+You may use, copy, modify this code for any purpose and 
+without fee. You may distribute this ORIGINAL package.
