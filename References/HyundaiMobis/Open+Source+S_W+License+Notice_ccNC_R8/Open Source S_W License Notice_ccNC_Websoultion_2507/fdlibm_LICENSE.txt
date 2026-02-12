@@ -1,0 +1,12 @@
+fdlibm 0 (commit - c512d6173f33c6b8301d3fba9384edc9fc1f9e45)
+fdlibm license
+Copyright (C) 1993-2004 by Sun Microsystems, Inc
+https://chromium.googlesource.com/chromium/src/+/refs/tags/92.0.4515.131/third_party/fdlibm/
+
+----------------------------------------------------
+Copyright (C) 1993-2004 by Sun Microsystems, Inc. All rights reserved.
+
+Developed at SunSoft, a Sun Microsystems, Inc. business.
+Permission to use, copy, modify, and distribute this
+software is freely granted, provided that this notice
+is preserved.

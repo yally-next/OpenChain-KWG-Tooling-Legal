@@ -1,0 +1,7 @@
+SevenZip-LZMA 15.14
+Public Domain
+Copyright -
+https://chromium.googlesource.com/chromium/src/+/refs/tags/92.0.4515.131/third_party/lzma_sdk/
+
+----------------------------------------------------
+LZMA SDK is placed in the public domain.
